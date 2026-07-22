@@ -1,83 +1,232 @@
-# ✨ DazzleLocke  
-*A custom Nuzlocke challenge for Pokémon LeafGreen*
+# ✨ DazzleLocke
 
-[![Stream](https://img.shields.io/badge/Stream-Twitch-9146FF)](https://twitch.tv/yourchannel) [![Rules](https://img.shields.io/badge/Rules-GitHub-6cc644)](https://github.com/yourusername/dazzlelocke)
-
----
-
-## 🧱 Core Nuzlocke Rules
-
-- **First Encounter:** Only the first Pokémon in each route/area can be caught. Lost if it faints or runs away.  
-- **Faint = Death:** Pokémon must be released or permanently boxed in a Graveyard.  
-- **Nickname:** All Pokémon must be nicknamed.  
-- **Dupes Clause:** If the first encounter is already owned, reroll until a new Pokémon appears.
+*A custom Nuzlocke challenge where every stream tells a new story.*
 
 ---
 
-## 💾 Team Wipe Rule
+# 🌟 Challenge Philosophy
 
-- If the party faints but living Pokémon exist in the PC, you may **rebuild your team**.  
-- The run ends only if **all Pokémon everywhere are dead**.
-
----
-
-## ✨ Dazzle Pokémon of the Stream
-
-**Note:** The **first stream** is the “Choose Your Starter” stream. **Dazzle Status does not apply**.  
-
-From **the second stream onward**:
-
-1. Place all **current party Pokémon on a wheel**.  
-2. Spin the wheel.  
-3. The selected Pokémon becomes the **Dazzle Pokémon of the Stream**.
-
-> If the chosen Pokémon already has **Dazzle Status**, you may keep it or select another Pokémon instead.
+DazzleLocke builds upon the traditional Nuzlocke by making every stream unique. At the start of each stream, a **Dazzle Pokémon** and a **Mission of the Stream** are randomly selected. Your goal is to complete the mission while guiding your Dazzle Pokémon to victory. Every successful stream adds to that Pokémon's legacy.
 
 ---
 
-### 🌟 Dazzle Requirements
+# 🧱 Core Nuzlocke Rules
 
-- Must stay in the **lead slot**  
-- Must **start every trainer battle**  
-- Must **KO at least one opposing Pokémon in each trainer battle**  
+## First Encounter
 
-Wild battles **do not count**.
+* Only the first Pokémon encountered in each route or area may be caught.
+* If it faints or flees, the encounter is lost.
 
----
+## Faint = Death
 
-### ⚠️ Dazzle Failure
+* Any Pokémon that faints must be permanently boxed or released.
 
-Occurs if the Dazzle Pokémon:
+## Nicknames
 
-- Is **not in the lead** for a trainer battle, or  
-- **Fails to KO at least one opposing Pokémon** in that trainer battle
+* Every Pokémon must be given a nickname.
 
-#### Penalty
+## Dupes Clause
 
-- **If PC has Pokémon:** Remove Dazzle Pokémon, replace with a PC Pokémon. Cannot return until **next stream** or **replacement faints**.  
-- **If PC is empty:** Place Dazzle Pokémon in PC. May return only when **a party Pokémon faints** or **team wipe occurs**.
+* If your first encounter is a Pokémon you already own, reroll until a new Pokémon appears.
 
----
+## Shiny Clause
 
-### ✨ Dazzle Status (Legacy System)
-
-- Pokémon that **complete a stream without failing** earn **Dazzle Status**.  
-- **Stackable:**  
-  - ✨ = 1× Dazzle  
-  - ✨✨ = 2× Dazzle  
-  - ✨✨✨ = 3× Dazzle  
-  - ✨✨✨✨ = 4× Dazzle  
-- Dazzle Pokémon **can be selected again** to build higher Dazzle counts.
+* Shiny Pokémon may always be caught.
+* Shiny encounters do **not** replace your normal encounter for that area.
 
 ---
 
-## 🎮 Quick Summary
+# 💀 Team Wipe Rule
 
-**DazzleLocke = Nuzlocke + Rotating Dazzle Pokémon**
+* If your party is wiped but you still have living Pokémon in the PC, you may rebuild your team.
+* The challenge ends only when **every Pokémon you own has fainted.**
 
-- Each stream, a **random Pokémon becomes the Dazzle Pokémon**  
-- Must **lead trainer battles** and **secure at least one KO**  
-- Failure triggers **team rotation from the PC**  
-- Success adds a **stacking Dazzle** to the Pokémon’s legacy  
+---
 
-> “Every stream has a new star. Every KO counts. Every Dazzle builds history.” ✨
+# ✨ Dazzle Pokémon
+
+The **first stream** is your **Starter Stream**.
+
+No Dazzle Pokémon is selected.
+
+Beginning with **Stream 2**:
+
+1. Place every Pokémon currently in your active party onto the Dazzle Wheel.
+2. Spin the wheel.
+3. The selected Pokémon becomes the **Dazzle Pokémon** for the stream.
+
+> **Optional Rule:** If the selected Pokémon already has one or more **✨ Dazzles**, you may keep it or spin again.
+
+---
+
+# 🌟 Dazzle Requirements
+
+To earn a Dazzle, the selected Pokémon must:
+
+* Begin every **Trainer Battle** in the lead slot.
+* Personally defeat **at least one Trainer Pokémon** in every Trainer Battle.
+* Complete the **Mission of the Stream**.
+* Survive until the end of the stream.
+
+> **Trainer Battle:** Any battle against an NPC Trainer. Wild Pokémon battles do not count unless a mission specifically states otherwise.
+
+---
+
+# 🎯 Mission of the Stream
+
+After selecting the Dazzle Pokémon:
+
+1. Spin the Mission Wheel.
+2. The selected mission applies **only** to the Dazzle Pokémon.
+3. Complete the mission before the stream ends.
+
+If the selected mission is **impossible** due to current game progress, reroll the Mission Wheel.
+
+---
+
+# 🎡 Mission Wheel
+
+## ⭐ Gain 5 Levels
+
+Gain **5 levels** during the stream.
+
+---
+
+## ⭐ Defeat a Major Trainer
+
+Defeat one **Major Trainer**.
+
+**Major Trainers include:**
+
+* Gym Leaders
+* Rival Battles
+* Evil Team Leaders/Admins
+* Elite Four
+* Champion
+* Other required story boss battles
+
+---
+
+## ⭐ Defeat 20 Pokémon
+
+Personally defeat **20 Pokémon** during the stream.
+
+---
+
+## ⭐ Type Hunter
+
+Defeat Pokémon from **5 different Pokémon types** during the stream.
+
+> **Note:** Dual-type Pokémon count as only **one** type of your choice.
+
+---
+
+## ⭐ Relentless
+
+Defeat **10 Trainer Pokémon consecutively** without switching out.
+
+> **Note:** Switching out or fainting resets your progress.
+
+---
+
+## ⭐ Carry the Team
+
+Personally defeat **15 Trainer Pokémon** during the stream.
+
+---
+
+## ⭐ No Healing Items in Battle
+
+Do not use healing items on the Dazzle Pokémon during Trainer Battles.
+
+> **Note:** Healing moves and held items are allowed.
+
+---
+
+## ⭐ Survival Run
+
+Do not use healing items on the Dazzle Pokémon while exploring a route, cave, or dungeon.
+
+Once you enter an area, you must defeat **every accessible Trainer** before voluntarily leaving.
+
+> **Clearing an Area:** Defeat every accessible Trainer before leaving the route, cave, or dungeon.
+>
+> **Note:** Pokémon Centers may only be used after the area has been cleared.
+
+---
+
+## ⭐ Sweep
+
+Defeat **every Pokémon** on **3 different Trainers' teams** without switching out.
+
+> **Note:** If the Dazzle Pokémon switches out or faints before defeating every Pokémon on that Trainer's team, that Trainer does not count.
+
+---
+
+## ⭐ Protector
+
+Finish the stream without **any active party Pokémon fainting**.
+
+> **Note:** Only Pokémon currently in your active party count toward this mission.
+
+---
+
+# ❌ Dazzle Failure
+
+A Dazzle Failure occurs if the Dazzle Pokémon:
+
+* Does not begin a Trainer Battle in the lead slot.
+* Fails to defeat at least one Trainer Pokémon in every Trainer Battle.
+* Fails to complete its Mission of the Stream.
+* Faints.
+
+## Penalty
+
+### If you have living Pokémon in the PC
+
+* Box the Dazzle Pokémon.
+* Replace it with a Pokémon from the PC.
+* The boxed Dazzle Pokémon cannot return until **the next stream** or until its replacement faints.
+
+### If the PC is empty
+
+* Box the Dazzle Pokémon.
+* It may only return after another party Pokémon faints or after rebuilding following a team wipe.
+
+---
+
+# ✨ Dazzle Status
+
+A Pokémon earns **one ✨ Dazzle** by:
+
+* Completing its Mission of the Stream.
+* Meeting every Dazzle Requirement.
+* Surviving until the end of the stream.
+
+Dazzles stack over time.
+
+| Dazzles | Status    |
+| :-----: | --------- |
+|    ✨    | 1 Dazzle  |
+|    ✨✨   | 2 Dazzles |
+|   ✨✨✨   | 3 Dazzles |
+|   ✨✨✨✨  | 4 Dazzles |
+
+A Pokémon may earn **unlimited Dazzles** throughout the run.
+
+---
+
+# 🎮 Quick Summary
+
+1. Start the stream.
+2. Spin for your Dazzle Pokémon.
+3. Spin for your Mission.
+4. Lead every Trainer Battle.
+5. Earn at least one Trainer KO in every Trainer Battle.
+6. Complete the Mission.
+7. Survive the stream.
+8. Earn another ✨ Dazzle.
+
+---
+
+> **"Every stream crowns a new star. Every mission builds a legacy."** ✨
