@@ -29,6 +29,15 @@ DazzleLocke builds upon the traditional Nuzlocke by making every stream unique. 
 
 * If your first encounter is a Pokémon you already own, reroll until a new Pokémon appears.
 
+## Species Clause
+
+You may only catch **one Pokémon from each evolutionary line** during the run.
+
+If your first encounter belongs to an evolutionary line you have already caught, you may either:
+
+- **Catch it**, using your encounter for that area, **or**
+- **Skip it** and continue encountering Pokémon until you find a new eligible species.
+
 ## Shiny Clause
 
 * Shiny Pokémon may always be caught.
